@@ -1,9 +1,9 @@
 import React from "react"
 
-class Exemple extends React.Component {
+class Index extends React.Component {
   render() {
-    return <h1>React Component Exemple</h1>
+    return <h1>React start template with css reset</h1>
   }
 }
 
-export default Exemple;
+export default Index;
