@@ -1,0 +1,8 @@
+/*
+  This page set global style off the site.
+  Exemple color, global balise margin/padding...
+*/
+:root {
+  --primary-color: rgb(0, 92, 20);
+  --on-primary-color: rgb(255, 255, 255);
+}
